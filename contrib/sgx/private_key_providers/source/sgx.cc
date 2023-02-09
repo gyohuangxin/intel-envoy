@@ -332,6 +332,8 @@ CK_RV SGXContext::rsaSign(CK_OBJECT_HANDLE privkey, CK_OBJECT_HANDLE pubkey, boo
   CK_MECHANISM mechanism;
   ENVOY_LOG_TO_LOGGER(Logger::Registry::getLog(Logger::Id::secret), debug, "hash {}", hash);
   ENVOY_LOG_TO_LOGGER(Logger::Registry::getLog(Logger::Id::secret), debug, "is_pss {}", ispss);
+  ENVOY_LOG_TO_LOGGER(Logger::Registry::getLog(Logger::Id::secret), debug, "in {}", fmt::ptr(in));
+  ENVOY_LOG_TO_LOGGER(Logger::Registry::getLog(Logger::Id::secret), debug, "inlen {}", inlen);
 
   if ((p11_ == NULL_PTR) || (sessionhandle_ == CK_INVALID_HANDLE)) {
     ENVOY_LOG(debug, "rsaSign parameters error.");
