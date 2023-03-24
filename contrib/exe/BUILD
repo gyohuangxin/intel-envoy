@@ -47,3 +47,7 @@ envoy_cc_test(
         "//conditions:default": envoy_all_contrib_extensions(),
     }),
 )
+
+
+load("@rules_coverity//coverity:defs.bzl", "cov_gen_script")
+cov_gen_script(name="coverity-target", deps=[":envoy-static"])

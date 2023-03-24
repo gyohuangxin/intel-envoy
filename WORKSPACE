@@ -23,3 +23,12 @@ envoy_python_dependencies()
 load("//bazel:dependency_imports.bzl", "envoy_dependency_imports")
 
 envoy_dependency_imports()
+
+load("@bazel_tools//tools/build_defs/repo:http.bzl", "http_archive")
+http_archive(
+    name="rules_coverity",
+    urls=["file:///opt/cov-analysis-linux64-2022.3.1/bazel/rules_coverity.tar.gz"],
+)
+
+load("@rules_coverity//coverity:repositories.bzl", "rules_coverity_toolchains")
+rules_coverity_toolchains()
