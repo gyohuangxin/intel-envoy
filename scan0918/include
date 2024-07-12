@@ -1,0 +1,13 @@
+3992 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/sgx/private_key_providers/source/sgx.cc
+3993 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/sgx/private_key_providers/source/sgx_private_key_provider.cc
+3994 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/sgx/private_key_providers/source/utility.cc
+3995 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/sgx/private_key_providers/source/config.cc
+4462 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/cryptomb/private_key_providers/source/cryptomb_stats.cc
+4463 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/cryptomb/private_key_providers/source/cryptomb_private_key_provider.cc
+4464 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/cryptomb/private_key_providers/source/config.cc
+4466 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/qat/private_key_providers/source/qat.cc
+4467 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/qat/private_key_providers/source/qat_private_key_provider.cc
+4468 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/qat/private_key_providers/source/config.cc
+3987 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/qat/compression/qatzip/compressor/source/qatzip_compressor_impl.cc
+3990 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/contrib/qat/compression/qatzip/compressor/source/config.cc
+1116 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/source/common/ssl/tls_certificate_config_impl.cc

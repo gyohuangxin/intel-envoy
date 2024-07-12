@@ -1,0 +1,7 @@
+10 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/external/com_github_google_tcmalloc/tcmalloc/internal/profile_builder.cc
+11 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/external/com_github_google_tcmalloc/tcmalloc/profile_marshaler.cc
+12 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/source/common/memory/stats.cc
+13 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/source/common/memory/utils.cc
+14 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/source/common/config/grpc_mux_impl.cc
+15 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/external/com_google_protobuf/src/google/protobuf/repeated_field.cc
+16 -> /root/.cache/bazel/_bazel_root/eeadb6506df9e2bb2bc2d9828e322898/execroot/envoy/source/common/config/xds_resource.cc
